@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px dashed black;
+}
+.racer_table td {
+  background-color: white;
+  height: 50px;
+  width: 50px;
+
+}
+
+.racer_table td.active {
+  background-color: black;
+}
+
+button {
+	width: 100px;
+	height: 30px;
+	border-radius: 7px;
+	margin-left: 40%;
+	margin-top: 40px;
+}
